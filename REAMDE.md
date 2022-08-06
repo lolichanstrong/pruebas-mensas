@@ -102,13 +102,13 @@ este es un texto tipo parrafo hecho en markdown
 
 ## tareas en formato lista:
 
-* [x]enseñar lo basico de markdown
+* [x] enseñar lo basico de markdown
 
-* [X]poner una imagen de una loli
+* [x] poner una imagen de una loli
 
-* [ ]destruir a mojojo
+* [ ] destruir a mojojo
 
-* [x]ser feo
+* [x] ser feo
 
 ## **Emojis**
 
