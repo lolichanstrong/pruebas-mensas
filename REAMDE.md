@@ -98,7 +98,7 @@ este es un texto tipo parrafo hecho en markdown
 
 >![lolichanstrong](https://scontent.fcul3-1.fna.fbcdn.net/v/t39.30808-6/290991935_110904005015052_3212114045580469874_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=mjvAkESSmfMAX8isgYJ&_nc_ht=scontent.fcul3-1.fna&oh=00_AT9b8Y9wtFbzNJJXXm4vQTKmWMe4dwrVrbMUtXJ74xQG1w&oe=62F3A9B1 "lolichanstrong, img real")
 
-##para ingresar codigo en MD solo es cuestion de ingresar 3 veces el signo de acento grave y ingresar el codigo y cerrar el triple acento grave
+## para ingresar codigo en MD solo es cuestion de ingresar 3 veces el signo de acento grave y ingresar el codigo y cerrar el triple acento grave
 
 ```c++
 
